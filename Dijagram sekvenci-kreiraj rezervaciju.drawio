@@ -132,7 +132,7 @@
         <mxCell id="hrLlSWi1UARKcxIhK7bV-7" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="415" y="434" width="50" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="hrLlSWi1UARKcxIhK7bV-8" value="KreirajRezervaciju(Korisnik,List&amp;lt;Ponuda&amp;gt;)" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="hrLlSWi1UARKcxIhK7bV-12" target="hrLlSWi1UARKcxIhK7bV-7" edge="1">
+        <mxCell id="hrLlSWi1UARKcxIhK7bV-8" value="KreirajRezervaciju(List&amp;lt;Rezervacija&amp;gt;)" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="hrLlSWi1UARKcxIhK7bV-12" target="hrLlSWi1UARKcxIhK7bV-7" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="215" y="426.5" as="sourcePoint" />
             <mxPoint x="440" y="424" as="targetPoint" />
@@ -293,7 +293,7 @@
         <mxCell id="QKEqj9zbWLhx44pr6UtN-25" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="415" y="434" width="50" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="QKEqj9zbWLhx44pr6UtN-26" value="KreirajRezervaciju(Korisnik,List&amp;lt;Ponuda&amp;gt;)" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="QKEqj9zbWLhx44pr6UtN-29" target="QKEqj9zbWLhx44pr6UtN-25" edge="1">
+        <mxCell id="QKEqj9zbWLhx44pr6UtN-26" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="QKEqj9zbWLhx44pr6UtN-29" target="QKEqj9zbWLhx44pr6UtN-25" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="215" y="426.5" as="sourcePoint" />
             <mxPoint x="440" y="424" as="targetPoint" />
